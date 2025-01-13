@@ -4,8 +4,9 @@
 
 Welcome to my GitHub profile! Here are some highlights:
 
-- 🔭 I’m currently working on [Your Project](link to project).
-- 🌱 I’m learning [fullstack/CI/CD env].
+- 🔭 I’m currently working on QuaolityCar: [QuaolityCar](https://quaolity-car.vercel.app).
+  This project began as a personal passion for cars and has grown into a pet project. My goal is to scale it into a comprehensive platform—a blog   and resource hub for drivers. I plan to integrate AI to provide smarter, more impactful features for users.
+- 🌱 I’m currently learning about full-stack development and CI/CD environments.
 - 👯 I’m looking to collaborate on interesting projects for fullstack collaborating
 - 💬 Ask me about [Mentoring, Front-end].
 - 📫 How to reach me: [kirevden@gmail.com](mailto:kirevden@gmail.com).
