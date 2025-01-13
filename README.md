@@ -18,9 +18,9 @@ Welcome to my GitHub profile! Here are some highlights:
 - Tools: `Git`, `Docker`, `AWS`, 
 
 ## 📈 GitHub Stats
-[Portfolio](https://den-web.github.io)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Den-web&show_icons=true&theme=radical)
 
 ## 🔗 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/denis-js-kirev-404291b3)
+- [Portfolio](https://den-web.github.io)
 - [Twitter](https://x.com/kirevden)
