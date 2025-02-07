@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! Here are some highlights:
 
-📝 Check out my blog: Code Loom Blog – where I write about software development, architecture, and tech insights.
+📝 Check out my blog: [Code Loom Blog](https://code-loom-blog-io.vercel.app) – where I write about software development, architecture, and tech insights.
 
 - 🔭 I’m currently working on QuaolityCar: [QuaolityCar](https://quaolity-car.vercel.app).
   This project began as a personal passion for cars and has grown into a pet project. My goal is to scale it into a comprehensive platform—a blog   and resource hub for drivers. I plan to integrate AI to provide smarter, more impactful features for users.
@@ -27,3 +27,4 @@ Welcome to my GitHub profile! Here are some highlights:
 - [LinkedIn](https://www.linkedin.com/in/denis-js-kirev-404291b3)
 - [Portfolio](https://den-web.github.io)
 - [Twitter](https://x.com/kirevden)
+- [Code Loom Blog](https://code-loom-blog-io.vercel.app)
