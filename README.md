@@ -4,7 +4,7 @@
 
 📍 Rijeka, Croatia · 🇺🇦 Ukrainian · 📧 kirevden@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-denis--kirev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-kirev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-denis--kirev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-kirev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-den--web.github.io-24292f?style=flat&logo=github)](https://den-web.github.io)
 [![Blog](https://img.shields.io/badge/Blog-Code%20Loom-000?style=flat)](http://code-loom-blog-io.vercel.app)
 
