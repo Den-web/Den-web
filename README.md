@@ -7,7 +7,6 @@
 📍 Rijeka, Croatia · 🇺🇦 Ukrainian · valid work permit (Croatia) · 📧 kirevden@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-denys--kirev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-kirev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-den--web.github.io-24292f?style=flat&logo=github)](https://den-web.github.io)
 [![Blog](https://img.shields.io/badge/Blog-Code%20Loom-000?style=flat)](https://code-loom-blog-io.vercel.app)
 [![Code Loom repo](https://img.shields.io/badge/Code%20Loom-source-24292f?style=flat&logo=github)](https://github.com/Den-web/CodeLoomBlog.io)
 
