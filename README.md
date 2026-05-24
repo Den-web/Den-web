@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-denys--kirev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-kirev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-den--web.github.io-24292f?style=flat&logo=github)](https://den-web.github.io)
-[![Blog](https://img.shields.io/badge/Blog-Code%20Loom-000?style=flat)](http://code-loom-blog-io.vercel.app)
+[![Blog](https://img.shields.io/badge/Blog-Code%20Loom-000?style=flat)](https://code-loom-blog-io.vercel.app)
+[![Code Loom repo](https://img.shields.io/badge/Code%20Loom-source-24292f?style=flat&logo=github)](https://github.com/Den-web/CodeLoomBlog.io)
 
 ---
 
@@ -52,10 +53,10 @@ LinkedIn — 3.6k+ followers · technical articles & posts on Next.js, React eco
 
 ### 📌 Pinned (рекомендация)
 
-1. **OrchestrAI / Adminly** — when public
-2. [den-web.github.io](https://github.com/Den-web/den-web.github.io) — portfolio
+1. **[CodeLoomBlog.io](https://github.com/Den-web/CodeLoomBlog.io)** — blog (Next.js, Contentlayer, MDX)
+2. **OrchestrAI / Adminly** — when public
 3. Strong Next.js / full-stack pet project
-4. Legacy MVP (Mapbox, GraphQL) — if still relevant
+4. ~~den-web.github.io~~ — **legacy portfolio** (outdated projects; не pin, пока не обновишь)
 
 ---
 
